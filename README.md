@@ -11,6 +11,6 @@ In this repository, you can find-
 4) Data used for comparing codes
 5) shape file used for visualizing data on map
 
-It is a recreated project from python to R, from Roshan Sharma's project updated on Kaggle.
+It is a recreated project from python to R.
 
 Thanks
